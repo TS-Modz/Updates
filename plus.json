@@ -1,10 +1,10 @@
 {
-"version": "11.14.0.0",
-"title": "Update Available!",
-"NewVersion": "11.14.0.0",
-"downloadLink": "https://telegram.me/TSMods1",
-"changeLogMessage": "- Bug fixes\n\n- Performance improvements\nA new update is available for the app. Please update for the latest features and improvements."
-"negativebtn": "Later",
-"positivebtn": "Update Now",
-"changelogTitle": "Changelogs"
+  "version": "11.14.0.0",
+  "title": "Update Available!",
+  "NewVersion": "11.14.0.0",
+  "downloadLink": "https://telegram.me/TSMods1",
+  "changeLogMessage": "- Bug fixes\n\n- Performance improvements\n\nA new update is available for the app. Please update for the latest features and improvements.",
+  "negativebtn": "Later",
+  "positivebtn": "Update Now",
+  "changelogTitle": "Changelogs"
 }
